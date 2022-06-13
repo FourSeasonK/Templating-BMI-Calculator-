@@ -4,6 +4,7 @@
   "description": "",
   "main": "BMICalculator.js",
   "scripts": {
+    "start": "node BMICalculator.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
